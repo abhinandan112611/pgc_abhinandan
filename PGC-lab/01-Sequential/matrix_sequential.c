@@ -1,7 +1,7 @@
 ﻿/**
  * @file matrix_sequential.c
  * @brief Experiment 1: Sequential Matrix Multiplication (Baseline O(N^3))
- * @author Sai Sriram (https://github.com/saisriram03)
+ * @author Abhinandan (https://github.com/abhinandan112611)
  * @course Parallel & Grid Computing Laboratory (PGC-Lab)
  */
 

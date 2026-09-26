@@ -1,7 +1,7 @@
 ﻿/**
  * @file matrix_mpi.c
  * @brief Experiment 3: Distributed-Memory MPI Matrix Multiplication
- * @author Sai Sriram (https://github.com/saisriram03)
+ * @author Abhinandan (https://github.com/abhinandan112611)
  * @course Parallel & Grid Computing Laboratory (PGC-Lab)
  */
 
